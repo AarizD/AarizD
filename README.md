@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there 👋 I'm Aariz, student at PES University, Bengaluru
 
-<!--
-**AarizD/AarizD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## MY TOOLKIT
+- **Languages:** C, JavaScipt, Python, Assembly (ARM)
+- **Environments & Tools:** Linux (Ubuntu), Git, 
+- **Focus Areas:** System Programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## MY OTHER SOCIALS
+- **LINKEDIN: www.linkedin.com/in/aariz-dudekula**
+- **LEETCODE: https://leetcode.com/u/aarizd31**
+
+## ABOUT ME
+- **Currently learning and working on ML and NN**
+- **Pursuing CS50X Course**
