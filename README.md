@@ -3,7 +3,7 @@
 
 ## MY TOOLKIT
 - **Languages:** C, JavaScipt, Python, Assembly (ARM)
-- **Environments & Tools:** Linux (Ubuntu), Git, 
+- **Environments & Tools:** Linux (Ubuntu), Git
 - **Focus Areas:** System Programming
 
 ## MY OTHER SOCIALS
